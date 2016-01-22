@@ -1,17 +1,22 @@
 Week 1:
 ======
-Touch base with them daily, at least.  If you don’t hear from them, check in-- better to do that early and get them unstuck then leave them.
+Touch base with them daily, at least.  If you don’t hear from them, check in-- better to do that early and get them unstuck then leave them. Overall first week goals:
+* Introduction to the company (policy, departments, goals, etc)
+* Introduction to the team (roles, rules, current projects, etc)
+* Introduction to team workflow (git, issue tracker, task manager, etc)
+* Set up individualized expectations for them. They must know what is expected, even though they will start with tiny, peripheral tasks.
+
 ### Day 1 and 2
-* Buddy up with last person to get dev env up and running. Introduce mentor, make it clear it’s totally OK to ask all kinds of questions.
-* New engineer updates dev environment documentation if it’s out of date or confusing.(They feel like they’re contributing, and your documentation is better as a result!)
-* Any technical tools or frameworks they need to know but don’t, yet, hand them the right books/material to get them started.  (Technical Material)
+* Environment setup: Buddy up with last person to get dev env up and running. Make it clear it’s totally OK to ask all kinds of questions.
+* Documentation: New engineer updates dev environment documentation if it’s out of date or confusing.(They feel like they’re contributing, and your documentation is better as a result!)
+* Work prep: Any technical tools or frameworks they need to know but don’t, yet, hand them the right books/material to get them started.  (Technical Material)
 
 ### Day 3-5
-* Get them started on blogging/journaling-for themselves and for you: 3 things per day or week that they didn’t understand, three new things they’ve learned, etc.  You can take a look at it together, or have them email it to you, so you’re aware of what they’re thinking about.
-* It’s helpful for a new developer to keep a “Things I’ve learned” file somewhere, for reference later- this can keep information such as what directory one should be in when running certain sporadically-used commands, and to remind them later of details they may forget.
-* Ideally have them ship something small to learn the process for shipping and releasing code (can just be config files or a really small one line change).
-* Introduce a small, well scoped project that is not time-sensitive for product, that shouldn’t be too technically complex, but gives them an opportunity to start learning the code style of your company. 
-* Onboarding social event.
+* Study Journal: Get them started on blogging/journaling-for themselves and for you: 3 things per week that they didn’t understand, three new things they’ve learned, etc. It can be a simple list with minor descriptions or a full on blog -- up to you. You can take a look at it together, or have them email it to you, so you’re aware of what they’re thinking about.
+* Troubleshooting Log: It’s helpful for a new developer to keep a “Things I’ve learned” file somewhere, for reference later- this can keep information such as what directory one should be in when running certain sporadically-used commands, and to remind them later of details they may forget.
+* First PR: Ideally have them ship something small to learn the process for shipping and releasing code (can just be config files or a really small one line change).
+* First project: Introduce a small, _well scoped_ project that is not time-sensitive for product, that shouldn’t be too technically complex, but gives them an opportunity to start learning the code style of your company. 
+* Onboarding social event!!!
 
 
 Week 2 
