@@ -14,29 +14,28 @@ Touch base with them daily, at least.  If you don’t hear from them, check in--
 ### Day 3-5
 * Study Journal: Get them started on blogging/journaling-for themselves and for you: 3 things per week that they didn’t understand, three new things they’ve learned, etc. It can be a simple list with minor descriptions or a full on blog -- up to you. You can take a look at it together, or have them email it to you, so you’re aware of what they’re thinking about.
 * Troubleshooting Log: It’s helpful for a new developer to keep a “Things I’ve learned” file somewhere, for reference later- this can keep information such as what directory one should be in when running certain sporadically-used commands, and to remind them later of details they may forget.
-* First PR: Ideally have them ship something small to learn the process for shipping and releasing code (can just be config files or a really small one line change).
-* First project: Introduce a small, _well scoped_ project that is not time-sensitive for product, that shouldn’t be too technically complex, but gives them an opportunity to start learning the code style of your company. 
+* App architecture "class": Set-up a briefing to walk them through the architecture of the stack. Key technologies, practices and the relevance of it to their particular role should be communicated.
+* Design patterns: Patterns commonly used throughout our apps, best practices, resource material to reference for later.
+* First PR: Ideally have them ship something small to learn the process for shipping and releasing code.
 * Onboarding social event!!!
 
 
 Week 2 
 ======
-* Get them started on updating anything in the docs that isn’t accurate anymore, or that was confusing to them. Introduce the idea that they’re not going to be useful for a while, that they’re just going to learn as much as they can.
-* Have someone explain history of company, company coding philosophies, and company leadership and team philosophies.
-* Give the new eng a map of people on team, what they work on, area of expertise, everyone has to update when new employees start): Tell them “This is Adam, he’s the resident expert on ____.  This is Allison, she’s great with _____.  You can go to her for questions about ____ and ____ as well….” etc.  Should also include managers, team leads, and other leadership roles on engineering.
-* Start them shadowing/pairing with people for maybe an hr a day, or for a longer chunk once a week.  Their partner talks out loud about what they’re doing, their process, etc; this is great for learning how different people think through things, and also gives a sense of the flow of process re: testing, committing, reviewing, etc.
-* Introduce code labs as well; twice a week, perhaps an hour each time.  This is a chance for the engineer to bring questions to you; for example, “What is RabbitMQ” or “How do I get more information about a sentry error”. It might also be “I have this unexpected behavior happening and I don’t know why, can we look at it?” There may be some topics you think are important to spend time on, but do also leave time for unrelated questions.  Note: In code lab, it’s important to assess where the Jr Eng’s knowledge ends/begins, so it’s really handy to ask what may be simple questions to establish what they do/don’t know.  Asking them to explain something to YOU is uncomfortable for them, but reveals where knowledge gaps are; just make sure you do this in an environment where it’s TOTALLY OK to not know the answers.
+* Continue updating documentation on a new app.
+* Q&A session: Set up a 10-15 min session to give junior an opportunity to ask questions that might be circling their heads. This can serve as a checkpoint for how well they're on-boarding and setup the next steps.
+* App architecture: (see above)
+* Design patterns: (see above)
+* First project: Applying what they're learning about team process daily is one of the most important things they can do. Introduce a small, _well scoped_ project that is not time-sensitive for product, that shouldn’t be too technically complex, but gives them an opportunity to start learning the code style of your company. 
+* Pair programming: Give them an opportunity to see how others work and learn from it. Ask them about the code being worked on to guage their knowledge, teach process, and engage their ideas about problem solving. (30-60 min)
+* First feedback: It's been two weeks! How's it going?
 
 Week 3:
 ======
-* Start setting some goals, for what you think they can achieve, and what they WANT to achieve, in a month, in 3 months, 6 months, a year.  It helps to ask them what their goals are, first. Maybe in a week you hope they’ll have a handle on your source control system.  Perhaps after a month you expect them to be able to figure out where to look in your code for a bug based on the info in a sentry error. Maybe in 6 months you hope they’ll be able to provide useful comments and suggestions on code reviews.  Maybe they’ll have goals of their own, weaknesses of their own, that they want to address in these goals.
-* Have junior engineers give a 5 or 10 minute presentation on a small topic either biweekly or monthly (i.e. generators, decorators, Django ORM layer); this should be something you think they should go off and research independently, that will be useful to them in the long run.
-* When they’ve finished a project, give them feedback not only on what they could improve for next time, but also what they’ve done well. We tend to assume that, if we don’t say anything, the other person knows what they’re doing is OK… but it’s hard to assess how you’re doing at the beginning, and feedback is usually really appreciated. This is a great thing to include in one-on-one.
-* Introduce weekly one-on-ones, if you haven’t already. (Sample outline below) 
-    * 10-20min: engineer goes into detail explaining something they learned in the last week (preferably technical). 
-    * 5-10min: manager goes into detailing explaining something the engineer did well during the last week and why. 
-    * Chunk of time dedicated to checking in with the junior engineer (any roadblocks, etc). 
-    * Chunk of time dedicated to one thing the engineer can focus improving during the next week (i.e. code coverage, smaller functions, comments, smaller commit chunks, whatever).
+* Goal setting: It's time to add them to current tasking and projects. Start setting some goals, for what you think they can achieve, and what they WANT to achieve, in a month, in 3 months, 6 months, a year.  It helps to ask them what their goals are, first. 
+* Lessons Learned presentations: Have junior engineers give a 5 or 10 minute presentation on a small topic either biweekly or monthly (i.e. generators, decorators, Django ORM layer); this should be something you think they should go off and research independently, that will be useful to them in the long run.
+* Feedback sessions: Junior should meet with mentor/supervisor/teammates to get feedback. This is crucial to giving them well-rounded perspective on their role, team expectations, and aligning their work with team goals.
+
 
 Week 4:
 ======
